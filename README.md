@@ -89,28 +89,28 @@ POST /api/products
 ```
 
 ## Postman Screenshots
-> Add your own screenshots in the `screenshots/` folder and keep the file names below (or update the links).
+
 
 ### 1. Get All Products
-![Get All Products](screenshots/01-get-all-products.png)
+![Get All Products](screenshots/01-get-all-products.jpeg)
 
 ### 2. Create Product
-![Create Product](screenshots/02-create-product.png)
+![Create Product](screenshots/02-create-product.jpeg)
 
 ### 3. Update Product
-![Update Product](screenshots/03-update-product.png)
+![Update Product](screenshots/03-update-product.jpeg)
 
 ### 4. Delete Product
-![Delete Product](screenshots/04-delete-product.png)
+![Delete Product](screenshots/04-delete-product.jpeg)
 
 ### 5. Low-Stock Report
-![Low Stock](screenshots/05-low-stock.png)
+![Low Stock](screenshots/05-low-stock.jpeg)
 
 ### 6. Category Summary
-![Category Summary](screenshots/06-category-summary.png)
+![Category Summary](screenshots/06-category-summary.jpeg)
 
 ### 7. Stock Adjustment (PATCH)
-![Stock Adjustment](screenshots/07-stock-adjustment.png)
+![Stock Adjustment](screenshots/07-stock-adjustment.jpeg)
 
 ## Author
 Shraddha – KR Mangalam University
